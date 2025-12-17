@@ -41,21 +41,41 @@ class AniListClient:
             logger.error(f"AniList Request Failed: {e}")
             return None
 
-    def get_trending_manga(self, limit: int = 50) -> List[Dict[str, Any]]:
+    def get_candidates(self, target_count: int = 200) -> List[Dict[str, Any]]:
         """
-        Fetch trending manga from AniList.
+        Fetch candidate manga merging Trending and Popular lists.
+        Deduplicates by ID.
+        """
+        # We'll split the target budget between Trending and Popular
+        # e.g. 100 Trending, 100 Popular
+        batch_size = target_count // 2
+        
+        # 1. Fetch Trending
+        trending = self._fetch_list(sort='TRENDING_DESC', limit=batch_size)
+        
+        # 2. Fetch Popularity
+        popular = self._fetch_list(sort='POPULARITY_DESC', limit=batch_size)
+        
+        # 3. Merge and Deduplicate
+        seen_ids = set()
+        merged = []
+        
+        for item in trending + popular:
+            if item['id'] not in seen_ids:
+                merged.append(item)
+                seen_ids.add(item['id'])
+        
+        logger.info(f"Merged candidates: {len(merged)} unique items (from {len(trending)} trending, {len(popular)} popular)")
+        return merged
+
+    def _fetch_list(self, sort: str, limit: int) -> List[Dict[str, Any]]:
+        """
+        Internal helper to fetch a list with specific sort.
         """
         query = '''
-        query ($page: Int, $perPage: Int) {
+        query ($page: Int, $perPage: Int, $sort: [MediaSort]) {
           Page (page: $page, perPage: $perPage) {
-            pageInfo {
-              total
-              currentPage
-              lastPage
-              hasNextPage
-              perPage
-            }
-            media (type: MANGA, sort: TRENDING_DESC, countryOfOrigin: "JP", isAdult: false) {
+            media (type: MANGA, sort: $sort, countryOfOrigin: "JP", isAdult: false) {
               id
               title {
                 romaji
@@ -69,6 +89,15 @@ class AniListClient:
               trending
               favourites
               genres
+              relations {
+                edges {
+                  relationType
+                  node {
+                    type
+                    status
+                  }
+                }
+              }
             }
           }
         }
@@ -76,19 +105,22 @@ class AniListClient:
         
         variables = {
             'page': 1,
-            'perPage': limit
+            'perPage': limit,
+            'sort': sort
         }
         
-        logger.info(f"Fetching top {limit} trending manga from AniList...")
+        logger.info(f"Fetching {limit} items sorted by {sort}...")
         data = self._query(query, variables)
         
         if not data or 'Page' not in data or 'media' not in data['Page']:
             logger.error("Failed to parse AniList response.")
             return []
             
-        manga_list = data['Page']['media']
-        logger.info(f"Successfully fetched {len(manga_list)} manga.")
-        return manga_list
+        return data['Page']['media']
+        
+    # Deprecated fallback
+    def get_trending_manga(self, limit: int = 50) -> List[Dict[str, Any]]:
+        return self._fetch_list('TRENDING_DESC', limit)
 
 if __name__ == "__main__":
     # Test run

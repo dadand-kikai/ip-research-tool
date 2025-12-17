@@ -1,0 +1,769 @@
+{
+  "Dandadan": {
+    "timestamp": "2025-12-17T17:23:34.084375",
+    "data": {
+      "normalized_score": 4.2105263157894735,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.2)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.25
+    }
+  },
+  "Damedol and the Only Fan in the World": {
+    "timestamp": "2025-12-17T17:23:39.443415",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.2)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.25
+    }
+  },
+  "Uncle from Another World": {
+    "timestamp": "2025-12-17T17:23:44.625789",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.2)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.25
+    }
+  },
+  "Marriage Toxin": {
+    "timestamp": "2025-12-17T17:23:50.745522",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.0)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.0
+    }
+  },
+  "The Fragrant Flower Blooms With Dignity": {
+    "timestamp": "2025-12-17T17:23:58.471572",
+    "data": {
+      "normalized_score": 1.7605633802816902,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.0)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.0
+    }
+  },
+  "The Otome Heroine's Fight for Survival (Manga)": {
+    "timestamp": "2025-12-17T17:24:05.589049",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.0)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.0
+    }
+  },
+  "Sakamoto Days": {
+    "timestamp": "2025-12-17T17:24:11.096480",
+    "data": {
+      "normalized_score": 2.807017543859649,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.2)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.25
+    }
+  },
+  "Kagurabachi": {
+    "timestamp": "2025-12-17T17:24:16.205914",
+    "data": {
+      "normalized_score": 1.4035087719298245,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.2)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.25
+    }
+  },
+  "Blue Box": {
+    "timestamp": "2025-12-17T17:24:22.647482",
+    "data": {
+      "normalized_score": 5.614035087719298,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": -0.25,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.2)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.25
+    }
+  },
+  "Tokyo Ghoul": {
+    "timestamp": "2025-12-17T17:24:29.612254",
+    "data": {
+      "normalized_score": 4.2105263157894735,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.2)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.25
+    }
+  },
+  "Berserk": {
+    "timestamp": "2025-12-17T17:24:34.967981",
+    "data": {
+      "normalized_score": 10.211267605633804,
+      "intent_manga": 1.4084507042253522,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.0)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.0
+    }
+  },
+  "Jujutsu Kaisen Modulo": {
+    "timestamp": "2025-12-17T17:24:39.922179",
+    "data": {
+      "normalized_score": 1.4084507042253522,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.0)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.0
+    }
+  },
+  "Tonari no Kurokawa-san": {
+    "timestamp": "2025-12-17T17:24:47.717789",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.0)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.0
+    }
+  },
+  "Starting Today, We’re Childhood Friends": {
+    "timestamp": "2025-12-17T17:24:55.238097",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.0)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.0
+    }
+  },
+  "Blue Lock": {
+    "timestamp": "2025-12-17T17:25:01.713725",
+    "data": {
+      "normalized_score": 19.718309859154928,
+      "intent_manga": 1.4084507042253522,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.0)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.0
+    }
+  },
+  "Gachiakuta": {
+    "timestamp": "2025-12-17T17:25:06.823974",
+    "data": {
+      "normalized_score": 13.380281690140844,
+      "intent_manga": 1.4084507042253522,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.0)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.0
+    }
+  },
+  "Jujutsu Kaisen": {
+    "timestamp": "2025-12-17T17:25:12.979644",
+    "data": {
+      "normalized_score": 28.52112676056338,
+      "intent_manga": 1.4084507042253522,
+      "intent_merch": 0.0,
+      "velocity": -0.045454545454545456,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.0)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.0
+    }
+  },
+  "Goodnight Punpun": {
+    "timestamp": "2025-12-17T17:25:18.547776",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.2)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.25
+    }
+  },
+  "Chainsaw Man": {
+    "timestamp": "2025-12-18T01:43:18.601431",
+    "data": {
+      "normalized_score": 24.738675958188153,
+      "intent_manga": 1.3937282229965158,
+      "intent_merch": 0.0,
+      "velocity": 0.5,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Attack on Titan": {
+    "timestamp": "2025-12-18T01:43:26.515289",
+    "data": {
+      "normalized_score": 12.89198606271777,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "One Piece": {
+    "timestamp": "2025-12-18T01:43:35.438779",
+    "data": {
+      "normalized_score": 360.0,
+      "intent_manga": 16.25,
+      "intent_merch": 0.0,
+      "velocity": -0.09722222222222222,
+      "status": "cached",
+      "notes": "Anchor: Jujutsu Kaisen (Avg 20.0)",
+      "anchor_term": "Jujutsu Kaisen",
+      "anchor_value": 20.0
+    }
+  },
+  "Demon Slayer: Kimetsu no Yaiba": {
+    "timestamp": "2025-12-18T01:43:40.252898",
+    "data": {
+      "normalized_score": 1.3888888888888888,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 72.0)",
+      "anchor_term": "One Piece",
+      "anchor_value": 72.0
+    }
+  },
+  "My Hero Academia": {
+    "timestamp": "2025-12-18T01:43:46.257039",
+    "data": {
+      "normalized_score": 18.81533101045296,
+      "intent_manga": 0.34843205574912894,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "One-Punch Man": {
+    "timestamp": "2025-12-18T01:43:53.945649",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "SPY x FAMILY": {
+    "timestamp": "2025-12-18T01:44:01.318389",
+    "data": {
+      "normalized_score": 7.665505226480835,
+      "intent_manga": 1.3937282229965158,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Horimiya": {
+    "timestamp": "2025-12-18T01:44:23.031699",
+    "data": {
+      "normalized_score": 1.3937282229965158,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Tokyo Revengers": {
+    "timestamp": "2025-12-18T01:44:29.895301",
+    "data": {
+      "normalized_score": 2.7874564459930316,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Bleach": {
+    "timestamp": "2025-12-18T01:44:42.302232",
+    "data": {
+      "normalized_score": 35.19163763066202,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Komi Can't Communicate": {
+    "timestamp": "2025-12-18T01:44:49.749836",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Black Clover": {
+    "timestamp": "2025-12-18T01:44:55.929598",
+    "data": {
+      "normalized_score": 8.362369337979095,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Hunter x Hunter": {
+    "timestamp": "2025-12-18T01:45:01.198800",
+    "data": {
+      "normalized_score": 6.620209059233449,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "20th Century Boys": {
+    "timestamp": "2025-12-18T01:45:26.569791",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Haikyu!!": {
+    "timestamp": "2025-12-18T01:45:32.832299",
+    "data": {
+      "normalized_score": 1.3937282229965158,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Fire Punch": {
+    "timestamp": "2025-12-18T01:45:52.780077",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Naruto": {
+    "timestamp": "2025-12-18T01:45:59.467843",
+    "data": {
+      "normalized_score": 64.80836236933798,
+      "intent_manga": 1.3937282229965158,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Death Note": {
+    "timestamp": "2025-12-18T01:46:05.597914",
+    "data": {
+      "normalized_score": 10.104529616724738,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Hell’s Paradise: Jigokuraku": {
+    "timestamp": "2025-12-18T01:46:12.834808",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "cached",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "A Silent Voice": {
+    "timestamp": "2025-12-18T01:46:25.194946",
+    "data": {
+      "normalized_score": 1.4134275618374559,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 70.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 70.75
+    }
+  },
+  "Dr. STONE": {
+    "timestamp": "2025-12-18T01:46:32.508989",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Uzumaki: Spiral into Horror": {
+    "timestamp": "2025-12-18T01:46:37.946363",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Dorohedoro": {
+    "timestamp": "2025-12-18T01:46:45.230047",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.": {
+    "timestamp": "2025-12-18T01:46:52.156755",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 72.0)",
+      "anchor_term": "One Piece",
+      "anchor_value": 72.0
+    }
+  },
+  "Frieren: Beyond Journey’s End": {
+    "timestamp": "2025-12-18T01:46:58.839437",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 72.0)",
+      "anchor_term": "One Piece",
+      "anchor_value": 72.0
+    }
+  },
+  "Land of the Lustrous": {
+    "timestamp": "2025-12-18T01:47:06.137252",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 72.0)",
+      "anchor_term": "One Piece",
+      "anchor_value": 72.0
+    }
+  },
+  "Fullmetal Alchemist": {
+    "timestamp": "2025-12-18T01:47:11.633462",
+    "data": {
+      "normalized_score": 1.3888888888888888,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 72.0)",
+      "anchor_term": "One Piece",
+      "anchor_value": 72.0
+    }
+  },
+  "Goodbye, Eri": {
+    "timestamp": "2025-12-18T01:47:17.367024",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Blue Period": {
+    "timestamp": "2025-12-18T01:47:23.982386",
+    "data": {
+      "normalized_score": 1.3937282229965158,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Don't Toy With Me, Miss Nagatoro": {
+    "timestamp": "2025-12-18T01:47:31.213508",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Kingdom": {
+    "timestamp": "2025-12-18T01:47:38.373869",
+    "data": {
+      "normalized_score": 90.99526066350711,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": -0.021739130434782608,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 52.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 52.75
+    }
+  },
+  "JoJo's Bizarre Adventure Part 6: Stone Ocean": {
+    "timestamp": "2025-12-18T01:47:45.183638",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.75
+    }
+  },
+  "Vagabond": {
+    "timestamp": "2025-12-18T02:13:00.990628",
+    "data": {
+      "normalized_score": 5.964912280701754,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.2)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.25
+    }
+  },
+  "Vinland Saga": {
+    "timestamp": "2025-12-18T02:13:08.882528",
+    "data": {
+      "normalized_score": 5.263157894736842,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.3333333333333333,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.2)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.25
+    }
+  },
+  "The Promised Neverland": {
+    "timestamp": "2025-12-18T02:13:13.952843",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.2)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.25
+    }
+  },
+  "Kaiju No.8": {
+    "timestamp": "2025-12-18T02:13:27.568987",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.5)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.5
+    }
+  },
+  "Monster": {
+    "timestamp": "2025-12-18T02:13:32.971474",
+    "data": {
+      "normalized_score": 131.46853146853147,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.022222222222222223,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 35.8)",
+      "anchor_term": "One Piece",
+      "anchor_value": 35.75
+    }
+  },
+  "[Oshi no Ko]": {
+    "timestamp": "2025-12-18T02:13:40.374161",
+    "data": {
+      "normalized_score": 1.3986013986013985,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.5)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.5
+    }
+  },
+  "Tokyo Ghoul:re": {
+    "timestamp": "2025-12-18T02:13:47.375187",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.5)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.5
+    }
+  },
+  "JoJo's Bizarre Adventure: Part 7–Steel Ball Run": {
+    "timestamp": "2025-12-18T02:13:53.332709",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.5)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.5
+    }
+  },
+  "My Dress-Up Darling": {
+    "timestamp": "2025-12-18T02:14:00.904301",
+    "data": {
+      "normalized_score": 0.0,
+      "intent_manga": 0.0,
+      "intent_merch": 0.0,
+      "velocity": 0.0,
+      "status": "success",
+      "notes": "Anchor: One Piece (Avg 71.5)",
+      "anchor_term": "One Piece",
+      "anchor_value": 71.5
+    }
+  }
+}

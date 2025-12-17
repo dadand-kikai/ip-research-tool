@@ -20,9 +20,11 @@ class Reporter:
             
             # Ensure column order
             columns = [
-                'title_native', 'title_en', 'total_score',
+                'title_native', 'title_en', 'anime_adaptation', 'score_total', 'data_quality',
+                'score_anilist', 'score_intent_manga', 
+                'score_intent_merch', 'score_velocity',
+                'trends_normalized', 'trends_status', 'anchor_term',
                 'anilist_popularity', 'anilist_trending',
-                'reddit_intent_score', 'reddit_velocity',
                 'recommended_sku_manga', 'recommended_sku_goods',
                 'notes', 'anilist_id'
             ]
